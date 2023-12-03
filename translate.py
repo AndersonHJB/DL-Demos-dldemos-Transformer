@@ -1,7 +1,6 @@
 import torch
 
-from data_load import (idx_to_sentence, load_cn_vocab,
-                                           load_en_vocab, maxlen)
+from data_load import (idx_to_sentence, load_cn_vocab, load_en_vocab, maxlen)
 from model import Transformer
 
 # Config
