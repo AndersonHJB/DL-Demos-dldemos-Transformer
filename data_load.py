@@ -1,6 +1,3 @@
-# Modify from
-# https://github.com/P3n9W31/transformer-pytorch/master/data_load.py
-
 import codecs
 import os
 import random
